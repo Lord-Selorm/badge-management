@@ -1,0 +1,2 @@
+.app-container{display:flex;flex-direction:column;min-height:100vh;position:relative}.watermark{color:#00000008;font-family:Arial,sans-serif;font-size:25vw;font-weight:700;left:50%;pointer-events:none;position:fixed;top:50%;transform:translate(-50%,-50%) rotate(-45deg);-webkit-user-select:none;user-select:none;white-space:nowrap;z-index:-1}.content{flex:1 1;position:relative;z-index:1}@media (max-width:768px){.watermark{font-size:40vw}}
+/*# sourceMappingURL=main.3f8325e3.css.map*/
